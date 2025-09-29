@@ -27,14 +27,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
- <a href="https://github.com/RanitManik">
+ <a href="https://github.com/AlphaPointTech">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&card_width=495&include_all_commits=true&count_private=true&show_icons=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&include_all_commits=true&count_private=true&show_icons=true&card_width=495" />
       <img width="400px" align="center" src="https://github-readme-stats-ranit.vercel.app/api?username=RanitManik&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" alt="GitHub Stats" />
     </picture>
   </a>
-  <a href="https://github.com/RanitManik">
+  <a href="https://github.com/AlphaPointTech">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik&theme=radical&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-ranit.vercel.app?user=RanitManik" />
