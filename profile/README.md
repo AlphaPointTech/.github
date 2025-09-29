@@ -35,3 +35,23 @@
     </picture>
   </a>
 </div>
+
+
+<h2 align="center">🔥 Language & Coding Activity</h2>
+
+<div width="100%" align="center">
+  <a href="https://github.com/LuckyMan0219">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=LuckyMan0219&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=LuckyMan0219&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/top-langs/?username=LuckyMan0219&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    </picture>
+  </a>
+  <a href="https://github.com/LuckyMan0219">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14&hide=other" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=14&hide=other" />
+      <img align="center" src="https://github-readme-stats-ranit.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&hide_border=true&langs_count=14" alt="Wakatime Stats&hide=other" />
+    </picture>
+  </a>
+</div>
