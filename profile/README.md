@@ -1,9 +1,3 @@
-<h2 align="center">AlphaPointTech</h2>
-
-- Website: https://www.alphapoint.tech
-- Contact: contact@alphapoint.tech
-
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
