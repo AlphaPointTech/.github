@@ -1,7 +1,5 @@
 # AlphaPointTech
 
-Building modern, reliable fintech and data platforms.
-
 - Website: https://www.alphapoint.tech
 - Contact: contact@alphapoint.tech
 
