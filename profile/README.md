@@ -4,19 +4,7 @@ Building modern, reliable fintech and data platforms.
 
 - Website: https://www.alphapointtech.com
 - Careers: https://www.alphapointtech.com/careers
-- Contact: hello@alphapointtech.com
-
-## What we build
-- Real-time trading systems
-- Data engineering platforms
-- Developer tooling and automation
-
-## Open source
-- We maintain and contribute to projects in TypeScript, Python, and Go.
-
-## Get involved
-- Check our CONTRIBUTING.md in each repository.
-- Security reports: security@alphapointtech.com (see SECURITY.md)
+- Contact: contact@alphapointtech.com
 
 ## Skills
 <div>
@@ -36,8 +24,3 @@ Building modern, reliable fintech and data platforms.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuckyMan0219&theme=dark&background=000000)](https://git.io/streak-stats)
