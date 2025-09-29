@@ -39,4 +39,4 @@ Building modern, reliable fintech and data platforms.
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaPointTech&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuckyMan0219&theme=dark&background=000000)](https://git.io/streak-stats)
