@@ -2,9 +2,8 @@
 
 Building modern, reliable fintech and data platforms.
 
-- Website: https://www.alphapointtech.com
-- Careers: https://www.alphapointtech.com/careers
-- Contact: contact@alphapointtech.com
+- Website: https://www.alphapoint.tech
+- Contact: contact@alphapoint.tech
 
 ## Skills
 <div>
