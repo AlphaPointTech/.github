@@ -1,10 +1,9 @@
-# AlphaPointTech
+# SoftLanceTech
 
 Building modern, reliable fintech and data platforms.
 
-- Website: https://www.alphapointtech.com
-- Careers: https://www.alphapointtech.com/careers
-- Contact: hello@alphapointtech.com
+- Website: https://softlance.tech
+- Contact: hr@softlance.tech
 
 ## What we build
 - Real-time trading systems
@@ -16,7 +15,7 @@ Building modern, reliable fintech and data platforms.
 
 ## Get involved
 - Check our CONTRIBUTING.md in each repo.
-- Security issues: security@alphapointtech.com (see SECURITY.md)
+- Security issues: hr@softlance.tech (see SECURITY.md)
 
 
 ### :fire: My Stats :
