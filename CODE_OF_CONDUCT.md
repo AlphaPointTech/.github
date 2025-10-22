@@ -12,7 +12,7 @@ We are committed to a welcoming and inclusive community.
 - Trolling or sustained disruption of discussions.
 
 ## Enforcement
-Report behavior concerns to conduct@alphapointtech.com. Violations may result in warnings or removal from participation.
+Report behavior concerns to hr@softlance.tech. Violations may result in warnings or removal from participation.
 
 This policy is adapted from the Contributor Covenant.
 
