@@ -1,10 +1,3 @@
-# SoftLanceTech
-
-Building modern, reliable fintech and data platforms.
-
-- Website: https://softlance.tech
-- Contact: hr@softlance.tech
-
 ## What we build
 - Real-time trading systems
 - Data engineering platforms
@@ -15,7 +8,7 @@ Building modern, reliable fintech and data platforms.
 
 ## Get involved
 - Check our CONTRIBUTING.md in each repo.
-- Security issues: hr@softlance.tech (see SECURITY.md)
+- Security issues: see SECURITY.md
 
 
 ### :fire: My Stats :
